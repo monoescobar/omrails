@@ -13,7 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-
 doc/
 *.swp
 *~
@@ -21,3 +20,5 @@ doc/
 .DS_Store
 .idea
 
+#Ignora paperclip Uploaded files 
+/public/system
